@@ -2,8 +2,10 @@
 
 Análise do desempenho do Fluminense no Campeonato Brasileiro Série A de 2014 a 2024, com **MySQL** para tratamento e modelagem dos dados e **Power BI** para o relatório.
 
-!\[Visão geral](imagens/visao-geral.png)
-
+   <img src="imagens/visao-geral.png" alt="Visão geral">
+   <img src="imagens/tecnicos.png" alt="Técnicos">
+   <img src="imagens/gols.png" alt="Gols">
+   <img src="imagens/posicao.png" alt="Posição na tabela">
 ## Pergunta
 
 **O que explica o desempenho do Fluminense no Brasileirão?**
